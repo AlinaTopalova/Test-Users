@@ -1,0 +1,19 @@
+.list__wrap {
+  padding: 25px 35px;
+}
+
+.list__title {
+  margin: 0 0 17px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+}
+
+.card__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
